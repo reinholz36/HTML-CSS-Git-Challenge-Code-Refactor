@@ -52,6 +52,19 @@ p {
 }
 /* Header Section End */
 
+/* Footer Section Start */
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
+/* Footer Section End */
+
 /* Hero Section Start */
 .hero {
     height: 800px;
@@ -63,19 +76,17 @@ p {
 }
 /* Hero Section End */
 
-/* Utilities Section */
+/* Content Section Start */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-/* Utilities Section */
 
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-/* Content Section Start */
 .content {
     width: 75%;
     display: inline-block;
@@ -99,7 +110,6 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 /* Content Section End */
 
 /* Benefits Section Start */
@@ -131,15 +141,4 @@ p {
 }
 /* Benefits Section End */
 
-/* Footer Section Start */
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
 
-.footer h2 {
-    font-size: 20px;
-}
-/* Footer Section End */
