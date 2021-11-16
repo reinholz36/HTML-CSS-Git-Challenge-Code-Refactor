@@ -1,5 +1,19 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+
+## Overview: 
+
+A UNC Code Camp assignment where I refactored code to meet accessibility standards. Note that the website in its current iteration is only meant to be viewed on a standard laptop display. 
+
+View live site at: https://reinholz36.github.io/HTML-CSS-Git-Challenge-Code-Refactor/
+ 
+## Technologies used: 
+  * HTML
+  * CSS
+
+
+## UNC Code Camp Assignment Directions
+
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
 
 For this week's Challenge, your task is to refactor an existing webpage to make it accessible and to improve SEO. It's important to follow the Scout Rule when working with an existing codebase: Always leave the code a little cleaner than you found it. 
