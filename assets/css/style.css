@@ -17,7 +17,7 @@ p {
     font-size: 16px;
 }
 
-/* Header Section Start */
+/* Header/Navigation Start */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -52,19 +52,6 @@ p {
 }
 /* Header Section End */
 
-/* Footer Section Start */
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
-}
-/* Footer Section End */
-
 /* Hero Section Start */
 .hero {
     height: 800px;
@@ -76,7 +63,8 @@ p {
 }
 /* Hero Section End */
 
-/* Content Section Start */
+/* Content Section Start:Search Engine Optimization, 
+Online Reputation Management, Social Media Marketing */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -112,7 +100,8 @@ p {
 }
 /* Content Section End */
 
-/* Benefits Section Start */
+/* Benefits Section Start: Lead Generation, Brand Awareness, 
+Cost Management */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -140,5 +129,19 @@ p {
     max-width: 150px;
 }
 /* Benefits Section End */
+
+/* Footer Section Start */
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
+/* Footer Section End */
+
 
 
