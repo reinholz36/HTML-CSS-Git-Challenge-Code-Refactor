@@ -7,10 +7,8 @@ A UNC Code Camp assignment where I refactored code to meet accessibility standar
 
 View live site at: https://reinholz36.github.io/HTML-CSS-Git-Challenge-Code-Refactor/
 
-![Search Engine Optimization](./assets/images/README-screenshot.jpg "Screenshot of site section:")
-
 <a href="https://reinholz36.github.io/HTML-CSS-Git-Challenge-Code-Refactor">
-<img src="./assets/images/README-screenshot.jpg">
+<img src="./assets/images/README-screenshot.jpg" alt="Search Engine Optimization">
 </a>
  
 ## Technologies used: 
